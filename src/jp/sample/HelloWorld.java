@@ -40,7 +40,7 @@ public class HelloWorld {
 		data[32] = "";
 		data[33] = "4161133:ゲーム";
 		data[34] = "";
-		data[35] = "";
+		data[35] = "4161204:秘密";
 		data[36] = "";
 		data[37] = "おわり";
 
