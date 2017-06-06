@@ -14,7 +14,7 @@ public class HelloWorld {
 		data[6] = "";
 		data[7] = "";
 		data[8] = "";
-		data[9] = "";
+		data[9] = "4161109:カラオケ";
 		data[10] = "";
 		data[11] = "";
 		data[12] = "";
