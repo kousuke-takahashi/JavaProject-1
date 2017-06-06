@@ -28,7 +28,7 @@ public class HelloWorld {
 		data[20] = "";
 		data[21] = "";
 		data[22] = "";
-		data[23] = "";
+		data[23] = "4161123:燻製";
 		data[24] = "";
 		data[25] = "";
 		data[26] = "4161126：テレビ";
