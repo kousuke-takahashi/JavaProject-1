@@ -31,7 +31,7 @@ public class HelloWorld {
 		data[23] = "";
 		data[24] = "";
 		data[25] = "";
-		data[26] = "";
+		data[26] = "4161126：テレビ";
 		data[27] = "";
 		data[28] = "";
 		data[29] = "";
