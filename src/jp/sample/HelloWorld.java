@@ -6,7 +6,7 @@ public class HelloWorld {
 
 	public static void main (String[] args) {
 		data[0] = "学籍番号：趣味";
-		data[1] = "";
+		data[1] = "4161101：ゲーム";
 		data[2] = "";
 		data[3] = "";
 		data[4] = "";
